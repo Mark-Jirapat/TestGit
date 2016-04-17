@@ -24,6 +24,7 @@ public class Hello {
                 case 3: System.out.println("I am Child of Fedora");
                 case 4: System.out.println("My Grandparents is Linux");
                 case 5: System.out.println("I have children name yum&dnf");
+                break;
             }
         }
     }
